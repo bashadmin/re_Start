@@ -5,3 +5,4 @@ mixedList = [55, 23432, 349.50, False, True, "Hello world", [1,2,3,'a','b'], "hi
 for item in mixedList:
     print(f"{item} is of data type {type(item)}")
     print("{} is of the data type {}".format(item, type(item)))
+git pull github.com:bashadmin/re_Start.git master

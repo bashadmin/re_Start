@@ -1,3 +1,16 @@
+Project Name: <enter project name>
+-------------------------------
+Roles Table:
+Role Title or Name | <Description>
+------------ | -------------
+<Title> | <Description>
+<Title> | <Description>
+<Title> | <Description>
+<Title> | <Description>
+<Title> | <Description>
+<Title> | <Description>
+
+
 Activity | Project | Sponsor | Role 3 | Role 4 | Role 5 | Role 6 | Role 7
 Categories | Manager | R/A/C/I | R/A/C/I | R/A/C/I | R/A/C/I | R/A/C/I
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------
